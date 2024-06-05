@@ -17,7 +17,7 @@ React-quill adalah komponen Quill yang populer untuk digunakan pada React dan Ne
 - Ukuran File: Menambahkan react-quill ke proyek kamu akan menambah ukuran bundel karena ketergantungannya, seperti React dan immutable.js.
 - Perilaku Tidak Terkendali: Jika hanya menyediakan prop defaultValue tanpa nilai, react-quill akan berfungsi sebagai komponen yang tidak terkontrol, yang bisa menyebabkan perilaku yang tidak terduga.
 
-
+React-quill adalah pilihan yang tepat untuk pengeditan teks yang mudah untuk digunakan. Namun, pengembang perlu mempertimbangkan fitur-fitur, kompleksitas, dan ukuran paketnya. Pastikan react-quill sesuai dengan kebutuhan proyek dan pemahaman tentang editor teks kaya sebelum memutuskan untuk menggunakannya.
 
 ## Installation
 
