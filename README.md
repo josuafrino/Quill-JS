@@ -38,7 +38,7 @@ React-quill adalah pilihan yang tepat untuk pengeditan teks yang mudah untuk dig
 
 ## Installation
 
-Untuk menginstal react-quill dalam proyek React, Anda dapat mengikuti langkah-langkah berikut:
+Untuk menginstal react-quill dalam proyek React silahkan untuk mengikuti langkah-langkah berikut:
 ### 1. Menggunakan npm:
 
 ```sh
