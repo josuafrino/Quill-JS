@@ -23,7 +23,7 @@ React-quill merupakan komponen Quill yang populer untuk digunakan pada React dan
 
 ## Kelebihan
 
-- Untuk mengedit teks mudah untuk digunakan karena tinggal hanya klik pada bagian fitur.
+- Untuk mengedit teks mudah untuk digunakan karena hanya dengan klik pada bagian fitur.
 - Fitur-fitur yang cukup lengkap.
 - Dapat menambahkan gambar dan video dengan mudah.
 - Dapat dikustom sesuai yang diinginkan.
