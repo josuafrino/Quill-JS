@@ -5,6 +5,11 @@ React-quill adalah komponen Quill yang populer untuk digunakan pada React dan Ne
 ![alt text](https://github.com/josuafrino/Quill-JS/blob/main/public/image/text.png?raw=true)
 
 
+
+
+
+![alt text]([https://github.com/josuafrino/Quill-JS/blob/main/public/image/text.png](https://github.com/josuafrino/Quill-JS/blob/main/public/image/link%2C%20gambar%2C%20video.png)?raw=true)
+
 ## Kelebihan
 
 - Pengeditan Teks : react-quill menyediakan editor teks yang memungkinkan pengguna untuk melihat dan mengedit konten dalam bentuk yang hampir sama dengan hasil akhirnya yang kaya fitur untuk aplikasi web. Pengguna bisa memformat teks, menambahkan tautan, gambar, dan lainnya.
