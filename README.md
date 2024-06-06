@@ -1,13 +1,24 @@
 # React Quill 
 
-React-quill adalah komponen Quill yang populer untuk digunakan pada React dan Next.js.
+React-quill merupakan komponen Quill yang populer untuk digunakan pada React dan Next.js.
 
+## Fitur-fitur
+### Fitur text dan gaya list
+- Text bold dapat digunakan dan tampil pada console log <strong></strong>
+- Text italic juga dapat digunakan dan tampil pada console log <em></em>
+- Text underline dapat digunakan dan tampil pada console log <u></u>
+- Text strike dapat digunakan dan tampil pada console log <s></s>
+- Text ukuran small, normal, large, dan huge juga dapat digunakan
+- Untuk gaya list seperti ordered, bullet, dan check juga dapat digunakan
 ![alt text](https://github.com/josuafrino/Quill-JS/blob/main/public/image/text.png?raw=true)
 
 
 
 
-
+### Fitur link, gambar, dan video
+- Fitur link dapat digunakan pada react quill dan penggunaan cukup mudah
+- Fitur gambar juga bisa digunakan, hanya tinggal klik bagian gambar lalu pilih gambar yang diinginkan
+- Fitur video cukup mudah digunakan, dikarenakan kita tinggal memilih video serta link urlnya lalu klik save
 ![alt text](https://github.com/josuafrino/Quill-JS/blob/main/public/image/link%2C%20gambar%2C%20video.png?raw=true)
 
 ## Kelebihan
