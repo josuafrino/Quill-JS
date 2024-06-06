@@ -18,15 +18,15 @@ React-quill merupakan komponen Quill yang populer untuk digunakan pada React dan
 ### Fitur link, gambar, dan video
 - Fitur link dapat digunakan pada react quill dan penggunaan cukup mudah
 - Fitur gambar juga bisa digunakan, hanya tinggal klik bagian gambar lalu pilih gambar yang diinginkan
-- Fitur video cukup mudah digunakan, dikarenakan kita tinggal memilih video serta link urlnya lalu klik save
+- Fitur video cukup mudah digunakan,  hanya dengan memilih video serta link urlnya lalu klik save
 ![alt text](https://github.com/josuafrino/Quill-JS/blob/main/public/image/link%2C%20gambar%2C%20video.png?raw=true)
 
 ## Kelebihan
 
-- Pengeditan Teks : react-quill menyediakan editor teks yang memungkinkan pengguna untuk melihat dan mengedit konten dalam bentuk yang hampir sama dengan hasil akhirnya yang kaya fitur untuk aplikasi web. Pengguna bisa memformat teks, menambahkan tautan, gambar, dan lainnya.
-- Modularitas: Quill sangat fleksibel, dimana kamu bisa menyesuaikan fitur-fitur editor dengan mudah menggunakan modul yang tersedia.
-- Kustomisasi: Kamu juga bisa menambahkan format dan konten khusus sesuai kebutuhan, karena Quill memperlihatkan model dokumennya sendiri.
-- Kemudahan Penyiapan: Memasang dan menggunakan react-quill sangat mudah. Editor ini hadir dengan toolbar bawaan dan mendukung tema resmi seperti Snow atau Bubble.
+- Untuk mengedit teks mudah untuk digunakan karena tinggal hanya klik pada bagian fitur.
+- Fitur-fitur yang cukup lengkap.
+- Dapat menambahkan gambar dan video dengan mudah.
+- Dapat dikustom sesuai yang diinginkan.
 
 ## Kekurangan
 
