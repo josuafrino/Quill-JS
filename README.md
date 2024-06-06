@@ -30,10 +30,9 @@ React-quill merupakan komponen Quill yang populer untuk digunakan pada React dan
 
 ## Kekurangan
 
-- Kompleksitas: Meskipun kaya fitur, pengaturan dan penyesuaian react-quill bisa jadi rumit sehingga butuh waktu untuk memahami semua opsinya.
-- Kurva Pembelajaran: Bagi yang baru mengenal Quill atau editor teks kaya, mungkin memerlukan sedikit usaha untuk bisa menggunakannya dengan efektif.
-- Ukuran File: Menambahkan react-quill ke proyek kamu akan menambah ukuran bundel karena ketergantungannya, seperti React dan immutable.js.
-- Perilaku Tidak Terkendali: Jika hanya menyediakan prop defaultValue tanpa nilai, react-quill akan berfungsi sebagai komponen yang tidak terkontrol, yang bisa menyebabkan perilaku yang tidak terduga.
+- Beberapa fitur yang disediakan di dokumen tidak dapat digunakan.
+- Dokumentasi yang kurang lengkap.
+- Tidak dapat digunakan pada browser versi lama
 
 React-quill adalah pilihan yang tepat untuk pengeditan teks yang mudah untuk digunakan. Namun, pengembang perlu mempertimbangkan fitur-fitur, kompleksitas, dan ukuran paketnya. Pastikan react-quill sesuai dengan kebutuhan proyek dan pemahaman tentang editor teks kaya sebelum memutuskan untuk menggunakannya.
 
