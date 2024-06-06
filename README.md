@@ -2,6 +2,8 @@
 
 React-quill adalah komponen Quill yang populer untuk digunakan pada React dan Next.js.
 
+![alt text](https://github.com/josuafrino/Quill-JS/blob/main/public/image/text.png?raw=true)
+
 
 ## Kelebihan
 
